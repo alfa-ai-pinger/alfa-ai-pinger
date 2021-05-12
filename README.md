@@ -1,10 +1,5 @@
-![welcome](https://i.imgur.com/6XHBC84.png)
-
-
-
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning discord.js 🤣
 - 💎 Making youtube videos.
-- 📣 Projects mantained by me: [reconlx](https://www.npmjs.com/package/reconlx), [vscode-sourcebin-uploader](https://marketplace.visualstudio.com/items?itemName=LimXuan.sourcebin-uploader)
 - ⚡ Fun fact: I coded a discord bot. It got verified by discord.<br />
 
 ### Languages and Tools:
